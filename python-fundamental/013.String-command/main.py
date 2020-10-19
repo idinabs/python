@@ -49,6 +49,6 @@ print("""
 nama saya abubakar sidik,biasa dipanggil petot,idin,udin petot,idik,dan sebagainya
 """)
 
-#menggunakan row 
+# menggunakan raw 
 print(r'nama saya adalah idin \b \b \t')
 
