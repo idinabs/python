@@ -34,7 +34,7 @@ print("string a didalam nama :" + " " + str(saya))
 # 5. mencari jumlah character berdasarkan built in dari string itu sendiri
 
 data = "petot"
-nama = data.count("t")
+nama = data.count("p")
 print("hasilnya adalah :" + " " + str(nama))
 
 # 6. mencari nilai char menggunakan ascii
