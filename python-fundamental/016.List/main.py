@@ -2,7 +2,7 @@
 mylist = [1,3,5,7,9]
 print(mylist)
 
-# memomtong list/slicing/irisan
+# memomtong list/slicing/irisanr
 Data = mylist[3]
 Data = mylist[-2]
 Data = mylist[2:]
