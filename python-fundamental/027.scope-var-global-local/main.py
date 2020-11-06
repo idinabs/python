@@ -3,7 +3,7 @@ makanankucing = "beras"
 
 def rubahnamakucing(namarubah):
     global namakucing
-    namakucing = namarubah # var local
+    namakucing = namarubah # var local 
     print("nama kucing saya adalah",namakucing)
 
 def rubahmakanan(nama,makanan):

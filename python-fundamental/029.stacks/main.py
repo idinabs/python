@@ -10,5 +10,6 @@ mydata.append(13)
 print("data telah ditambahkan",mydata)
 
 # melakukan stack / stacking
-mydata.pop() # pop merupakan built-in python untuk melakukan stacking
-print("data ana telah di remove",mydata)
+out = mydata.pop() # pop merupakan built-in python untuk melakukan stacking
+print("data ana telah di kurangi",out)
+print("data sekarang",mydata)
